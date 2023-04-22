@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're Wumpus Central oranization!</h1>
+<h1 align="center">Hi 👋, We're Wumpus Central organization!</h1>
 <h3 align="center">A team of dataminers and developers who work on various interesting things related to Discord</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wumpus-central&label=Organization%20views&color=5865f2&style=flat" alt="wumpus-central" /> </p>
