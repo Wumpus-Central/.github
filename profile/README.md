@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=2500&color=F7F7F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+We're+Wumpus+Central+Organization!)](https://git.io/typing-svg)</h1>
+<h1 align="center">Hi :wave:, We're Wumpus Central organization!</h1>
 
 <h3 align="center">A team of dataminers and developers who work on various interesting things related to Discord</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/wumpuscentral" target="blank"><img src="https://img.shields.io/twitter/follow/wumpuscentral?logo=twitter&style=for-the-badge" alt="wumpuscentral" /></a> </p>
 
-- 📫 How to reach me **wumpuscentral@gmail.com**
+- :mailbox: How to reach me **wumpuscentral@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
