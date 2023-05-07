@@ -1,5 +1,5 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=2500&color=F7F7F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+We're+Wumpus+Central+Organization!)](https://git.io/typing-svg)
+<h1 align="center">Hi :wave:, We're Wumpus Central organization!</h1>
+<h1 align="center"></h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=2500&color=F7F7F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+We're+Wumpus+Central+Organization!)](https://git.io/typing-svg)
 
 <h3 align="center">A team of dataminers and developers who work on various interesting things related to Discord</h3>
 
