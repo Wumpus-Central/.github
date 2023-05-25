@@ -9,12 +9,12 @@
 <p align="right"> <br>
   <h2 align="center">You can find us on</h2>
 </p>
-  <p>
+  <p align="center">
     <a href="https://twitter.com/wumpuscentral" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Icon" height="30" width="40" />
     </a> Twitter <a href="https://twitter.com/wumpuscentral" tager="_blank">(@WumpusCentral)</a><br>
     <a href="https://inv.wtf/discord-datamining" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Icon" height="30" width="40" />
-    </a> Discord <a href="discord.gg/QgEbfFa9XA" tager="_blank">(discord.gg/QgEbfFa9XA)</a>
+    </a> Discord <a href="discord.gg/QgEbfFa9XA" tager="_blank">(Wumpus Central)</a>
   </p>
 </p>
